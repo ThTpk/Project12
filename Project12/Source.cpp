@@ -5,5 +5,6 @@ int main()
 	scanf_s("%d", &x);
 	printf("%d", x);
 	printf("asdfasdfasdfasdf");
+	printf("text new text");
 	return 0;
 }
